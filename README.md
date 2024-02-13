@@ -1,7 +1,7 @@
 <body>
     <h1>Airbnb Dataset Analysis Project</h1>
     <p>This project delves into the comprehensive analysis of the Airbnb market in Clark County, Nevada, utilizing the Inside Airbnb dataset. Aimed at uncovering the intricacies of pricing, location, and room types, this analysis seeks to provide actionable insights for potential investors and hosts within the Airbnb ecosystem. By examining various aspects of the dataset, including neighborhood distribution, price variations by room type, and the impact of reviews and availability on pricing, this project offers a detailed exploration of the factors influencing Airbnb listings.</p>
-    <i>Created and presented as a final project for CS 489 at UNLV. This project recieved an A grade, and the accompanying presentation is also included as a PDF file.</i>
+    <i>Created and presented as a final project for CS 489 - "Advanced Topics in Computer Science" at UNLV. This project recieved an A grade, and the accompanying presentation is also included as a PDF file.</i>
     <h2>Project Overview</h2>
     <h3>Origin and Motivation</h3>
     <ul>
